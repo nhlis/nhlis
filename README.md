@@ -20,17 +20,17 @@ Software Engineer with strong expertise in building scalable, maintainable syste
 - **Proficient:** TypeScript, JavaScript  
 - **Familiar:** Java (Core), PHP
 
-### 🌐 Frontend Development
+### 🎨 Frontend Development
 - **Frameworks:** React.js  
 - **Styling:** TailwindCSS, Bootstrap, SCSS  
 - **Libraries:** Zustand, React Query, Framer Motion, Axios, i18n, Routing  
 - **Validation:** Zod, React Hook Form
 
-### 🔧 Backend Development
+### 🌐 Backend Development
 - **Proficient:** NestJS, ExpressJS  
 - **Basic Knowledge:** Java Spring Boot, Laravel
   
-### 🔧 Database Systems
+### 🗄️ Database Systems
 - **Relational:** MySQL  
 - **NoSQL:** MongoDB
 - **Caching:** Redis
